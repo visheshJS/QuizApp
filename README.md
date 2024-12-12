@@ -12,3 +12,6 @@ A fun and interactive quiz app with **4 questions** that tests your knowledge! I
 - 💻 **HTML**
 - 🎨 **CSS**
 - 🔧 **JavaScript**
+
+## Disclaimer
+This Quiz App is built **for educational purposes** only. It does not collect or store any personal data. The app is a demonstration of **basic web development skills** and is not intended for any commercial use.
