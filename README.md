@@ -1,4 +1,4 @@
-# [Quiz App](https://visheshjs.github.io/QuizApp/)
+# [Quiz App](https://quiz-app-visheshjs.netlify.app/)
 
 A fun and interactive quiz app with **4 questions** that tests your knowledge! It calculates your score based on your answers, and if you score **4 out of 4**, a winning animation is shown. The app is fully responsive, ensuring a great experience on both mobile and desktop devices.
 
